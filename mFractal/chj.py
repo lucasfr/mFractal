@@ -18,9 +18,9 @@ def chj(Timeseries,qValues,scales):
             falpha: Hausdorff dimension $f(\alpha)$ vector of estimated spectrum,
             qValues: Vector containing $q$ values.
             Dq: Vector containing generalised dimensions $D_q$.
-            Rsqr_alpha: R^2 values for each of the values in Holder exponent $\alpha$ vector.
-            Rsqr_falpha: R^2 values for each of the values in Hausdorff dimension $f(\alpha)$ vector.
-            Rsqr_Dq: R^2 values for each of the values in generalised dimensions $D_q$.
+            Rsqr_alpha: $R^2$ values for each of the values in Holder exponent $\alpha$ vector.
+            Rsqr_falpha: $R^2$ values for each of the values in Hausdorff dimension $f(\alpha)$ vector.
+            Rsqr_Dq: $R^2$ values for each of the values in generalised dimensions $D_q$.
 
 
     References
