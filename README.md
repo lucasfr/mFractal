@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/lucasfr/mFractal/branch/main/graph/badge.svg?token=EB7Z9AWZVN)](https://codecov.io/gh/lucasfr/mFractal)
 ![GitHub](https://img.shields.io/github/license/lucasfr/mFractal)
 ![PyVers](https://img.shields.io/badge/Python-v3.6_|_v3.7_|_v3.8_|_v3.9-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4589625.svg)](https://doi.org/10.5281/zenodo.4589625)
 
 This is a development version of a module for multifractal analyses in Python. It already includes a version of the Chhabra-Jensen method.
 
