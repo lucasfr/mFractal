@@ -17,6 +17,30 @@ The code was developed based on the method described in:
 
 Chhabra, A. & Jensen, R., 1989. [Direct determination of the f(α) singularity spectrum](http://link.aps.org/doi/10.1103/PhysRevA.40.5284). Physical Review Letters, 62(12), pp.1327–1330.
 
+If you have any questions or suggestions, please [open an issue in the relevant tab](https://github.com/CoDe-Neuro/dynfc/issues). 
+
+Please do not hesitate to suggest improvements to this module.
+
+## Installation
+
+The easiest way to install mFractal is via pip (PyPI) with the command below.
+
+```
+pip install mFractal
+```
+
+If you would like to specify a version use the following command to install version *0.0.1a1*, for example.
+
+```
+pip install mFractal==0.0.1a1
+```
+
+Alternatively one can clone this repository and add it to a project. For that use the following command.
+
+```
+git clone https://github.com/lucasfr/mFractal/
+```
+
 ## LICENSE
 
 This software is licensed under an MIT License.
