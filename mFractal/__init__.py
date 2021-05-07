@@ -1,3 +1,3 @@
-from .chj import chj
+from .chj import chj, sigmoid_std
 
-__all__ = ['chj']
+__all__ = ['chj', 'sigmoid_std']
