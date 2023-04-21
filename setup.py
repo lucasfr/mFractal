@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="mFractal", 
-    version="0.0.1-a1",
+    version="0.0.1-a2",
     author="Lucas G. S. França, Yujiang Wang, José G V Miranda",
-    author_email="lucas.franca@kcl.ac.uk",
+    author_email="lucas.franca@northumbria.ac.uk",
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.8',
 )
