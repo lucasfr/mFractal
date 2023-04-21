@@ -1,3 +1,5 @@
+import numpy as np
+
 def sigmoid_std(Timeseries, v = 1):
     """Run LEiDA Routine for BOLD signal.
     Args:
